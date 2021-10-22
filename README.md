@@ -13,4 +13,5 @@
 ## Modo de usar.
   - É necessário **docker** e **docker-compose** instalados.
   - Para rodar a aplicação execute o comando `docker-compose up -d`
+  - Para listar os containers execute o comando `docker container ls`
   - Para encerrar a aplicação execute o comando `docker-compose down`
